@@ -13,7 +13,7 @@ When I'm not working, I enjoy staying up-to-date on the latest trends in cloud c
 <!--
 **Imadus00/imadus00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:ftyhfgyy
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
