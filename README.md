@@ -4,7 +4,7 @@ Hi, I'm a cloud architect with experience in designing, building, and deploying 
 
 In my current role, I lead the design and implementation of cloud-based architectures for a variety of projects, working closely with development teams to ensure that our solutions are efficient, cost-effective, and secure. I have a track record of delivering successful projects on time and within budget, and am always looking for ways to improve the development process and drive innovation.
 
-When I'm not working, I enjoy staying up-to-date on the latest trends in cloud computing, and contributing to open source projects. If you have any questions or would like to work with me, don't hesitate to reach out!
+When I'm not working, I enjoy staying up-to-date on the latest trends in cloud computing, and sharing my knowledge, If you have any questions or would like to work with me, don't hesitate to reach out!
 
 - 📫 How to reach me:
 
